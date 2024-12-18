@@ -1,4 +1,4 @@
-const mediaPath = 'https://fake-api-tau.vercel.app/efood/'
+const mediaPath = 'https://fake-api-khaki.vercel.app/efood/'
 
 const items = [
   {

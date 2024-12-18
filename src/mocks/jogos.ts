@@ -1,4 +1,4 @@
-const mediaPath = 'https://fake-api-tau.vercel.app/eplay/'
+const mediaPath = 'https://fake-api-khaki.vercel.app/eplay/'
 
 export const jogos = [
   {
