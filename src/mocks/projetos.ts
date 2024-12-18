@@ -139,7 +139,7 @@ export const projetos = [
     {
         id: 6,
         categoria: 'websites',
-        descricao: 'Esta landing page fictícia de uma loja de tênis foi projetada para proporcionar uma experiência de compra online. Com um layout moderno e focado na experiência do usuário',
+        descricao: 'Esta landing page fictícia de uma loja de tênis foi projetada para proporcionar uma experiência de compra online. Com um layout moderno e focado na experiência do usuário.',
         nome: 'Shoes Store',
         link: 'https://ebac-store-omega.vercel.app/',
         gallery: [
@@ -199,7 +199,7 @@ export const projetos = [
     {
         id: 10,
         categoria: 'ferramentas',
-        descricao: 'Essa ferramenta tem como objetivo o facil acesso aos repositorios e informções de qualquer perfil atraves da API do GitHub, basta o usuário digitar o Username e clicar em "buscar"',
+        descricao: 'Essa ferramenta tem como objetivo o facil acesso aos repositorios e informções de qualquer perfil atraves da API do GitHub, basta o usuário digitar o Username e clicar em "buscar".',
         nome: 'GitHub random',
         link: 'https://github-perfil-lemon.vercel.app/',
         gallery: [
