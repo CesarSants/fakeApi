@@ -4,7 +4,7 @@ export const projetos = [
     {
         id: 1,
         categoria: 'websites',
-        descricao: '1 Lorem ipsum dolor sit,Lorem ipsum, dolor sit ametconsectetur adipisicing elit. Omnis ea voluptate qui,quia nesciunt accusantium. Temporibus ve',
+        descricao: 'ePlay é uma plataforma fictícia de e-commerce especializada em jogos, oferece uma experiência completa. Desde a escolha dos títulos mais desejados até a finalização da compra.',
         nome: 'ePlay',
         link: 'https://e-play-ashy.vercel.app/',
         gallery: [
@@ -40,7 +40,7 @@ export const projetos = [
     {
         id: 2,
         categoria: 'websites',
-        descricao: '2 Lorem ipsum dolor sit,Lorem ipsum, dolor sit ametconsectetur adipisicing elit. Omnis ea voluptate qui,quia nesciunt accusantium. Temporibus ve',
+        descricao: 'eFood é uma loja fictícia focada em gastronomia. Com um vasto cardápio, oferece uma experiência prática e saborosa, desde a escolha dos pratos até a finalização do pedido.',
         nome: 'eFood',
         link: 'https://e-food-taupe.vercel.app/',
         gallery: [
@@ -76,7 +76,7 @@ export const projetos = [
     {
         id: 3,
         categoria: 'websites',
-        descricao: '3 Lorem ipsum dolor sit,Lorem ipsum, dolor sit ametconsectetur adipisicing elit. Omnis ea voluptate qui,quia nesciunt accusantium. Temporibus ve',
+        descricao: 'Esta Landing Page é uma experiência imersiva dedicada ao universo de Star Wars. Descubra todos os filmes e series da franquia e conheça os pacotes para ter acesso ao conteúdo.',
         nome: 'StarWars LandingPage',
         link: 'https://site-star-wars-gold.vercel.app/',
         gallery: [
@@ -103,7 +103,7 @@ export const projetos = [
     {
         id: 4,
         categoria: 'websites',
-        descricao: '4 Lorem ipsum dolor sit,Lorem ipsum, dolor sit ametconsectetur adipisicing elit. Omnis ea voluptate qui,quia nesciunt accusantium. Temporibus ve',
+        descricao: 'Travela é um site fictício de viagens projetado para inspirar e facilitar a exploração de destinos ao redor do mundo. Com uma interface intuitiva, design moderno e responsivo.',
         nome: 'Travela',
         link: 'https://travela-eta.vercel.app/',
         gallery: [
@@ -121,7 +121,7 @@ export const projetos = [
     {
         id: 5,
         categoria: 'websites',
-        descricao: '5 Lorem ipsum dolor sit,Lorem ipsum, dolor sit ametconsectetur adipisicing elit. Omnis ea voluptate qui,quia nesciunt accusantium. Temporibus ve',
+        descricao: 'Esta landing page fictícia de um restaurante foi criada para oferecer uma experiência visual atraente e intuitiva, destacando o cardápio, localização e a história do restaurante.',
         nome: 'Restaurante LandingPage',
         link: 'https://restaurante-silk.vercel.app/',
         gallery: [
@@ -139,7 +139,7 @@ export const projetos = [
     {
         id: 6,
         categoria: 'websites',
-        descricao: '6 Lorem ipsum dolor sit,Lorem ipsum, dolor sit ametconsectetur adipisicing elit. Omnis ea voluptate qui,quia nesciunt accusantium. Temporibus ve',
+        descricao: 'Esta landing page fictícia de uma loja de tênis foi projetada para proporcionar uma experiência de compra online. Com um layout moderno e focado na experiência do usuário',
         nome: 'Shoes Store',
         link: 'https://ebac-store-omega.vercel.app/',
         gallery: [
@@ -154,7 +154,7 @@ export const projetos = [
     {
         id: 7,
         categoria: 'ferramentas',
-        descricao: '7 Lorem ipsum dolor sit,Lorem ipsum, dolor sit ametconsectetur adipisicing elit. Omnis ea voluptate qui,quia nesciunt accusantium. Temporibus ve',
+        descricao: 'Esse projeto é uma lista de tarefas, desenvolvida para ajudar os usuários a organizar suas atividades de forma eficiente. possui edição, buscas, filtros, e alteração de status.',
         nome: 'Lista de tarefas',
         link: 'https://lista-de-tarefas-react-nine.vercel.app/',
         gallery: [
@@ -169,7 +169,7 @@ export const projetos = [
     {
         id: 8,
         categoria: 'ferramentas',
-        descricao: '8 Lorem ipsum dolor sit,Lorem ipsum, dolor sit ametconsectetur adipisicing elit. Omnis ea voluptate qui,quia nesciunt accusantium. Temporibus ve',
+        descricao: 'Este projeto é uma calculadora de IMC (Índice de Massa Corporal). O usuário precisa digitar sua altura e peso e a ferramenta apresenta o resultado de forma dinâmica em uma regua.',
         nome: 'Calculadora de IMC',
         link: 'https://calcule-imc-rho.vercel.app/',
         gallery: [
@@ -184,7 +184,7 @@ export const projetos = [
     {
         id: 9,
         categoria: 'ferramentas',
-        descricao: '9 Lorem ipsum dolor sit,Lorem ipsum, dolor sit ametconsectetur adipisicing elit. Omnis ea voluptate qui,quia nesciunt accusantium. Temporibus ve',
+        descricao: 'Essa ferramenta é uma lista de contatos que permite aos usuários gerenciar facilmente suas informações com funcionalidades como filtros personalizados, opção de edição e remoção.',
         nome: 'Lista de contatos',
         link: 'https://lista-de-contatos-tan.vercel.app/',
         gallery: [
@@ -199,7 +199,7 @@ export const projetos = [
     {
         id: 10,
         categoria: 'ferramentas',
-        descricao: '10 Lorem ipsum dolor sit,Lorem ipsum, dolor sit ametconsectetur adipisicing elit. Omnis ea voluptate qui,quia nesciunt accusantium. Temporibus ve',
+        descricao: 'Essa ferramenta tem como objetivo o facil acesso aos repositorios e informções de qualquer perfil atraves da API do GitHub, basta o usuário digitar o Username e clicar em "buscar"',
         nome: 'GitHub random',
         link: 'https://github-perfil-lemon.vercel.app/',
         gallery: [
@@ -214,7 +214,7 @@ export const projetos = [
     {
         id: 11,
         categoria: 'ferramentas',
-        descricao: '11 Lorem ipsum dolor sit,Lorem ipsum, dolor sit ametconsectetur adipisicing elit. Omnis ea voluptate qui,quia nesciunt accusantium. Temporibus ve',
+        descricao: 'A ferramenta analisa dados detalhados de contas no GitHub, oferecendo insights sobre contribuições, repositórios, seguidores, atividades e principais tecnologias utilizadas.',
         nome: 'GitHub analizer',
         link: 'https://portifolio-puce-nu.vercel.app/',
         gallery: [
@@ -229,7 +229,7 @@ export const projetos = [
     {
         id: 12,
         categoria: 'ferramentas',
-        descricao: '12 Lorem ipsum dolor sit,Lorem ipsum, dolor sit ametconsectetur adipisicing elit. Omnis ea voluptate qui,quia nesciunt accusantium. Temporibus ve',
+        descricao: 'A calculadora oferece uma interface simples e intuitiva, realiza operações de adição, subtração, multiplicação e divisão, alem de permitir salvar e filtrar as operações.',
         nome: 'Calculadora',
         link: 'https://calculadora-vue-js-wheat.vercel.app/',
         gallery: [
