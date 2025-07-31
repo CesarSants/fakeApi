@@ -4,7 +4,7 @@ export const projetos = [
     {
         id: 1,
         categoria: 'websites',
-        descricao: 'PcStore é um e-commerce de especializado em computadores e acessórios, possui integração com Google Auth para cadastro e login de usuários, além de integração com gateway de pagamentos.',
+        descricao: 'PcStore é um e-commerce de especializado em computadores e acessórios, possui integração com Google Auth para login de usuários, além de integração com gateway de pagamentos.',
         nome: 'PcStore',
         link: 'https://pc-store-seven.vercel.app/',
         gallery: [
@@ -226,7 +226,7 @@ export const projetos = [
     {
         id: 9,
         categoria: 'ferramentas',
-        descricao: 'Sistema de agendamentos, com verificação de disponibilidade em tempo real. Possui funcionalidades como login, cadastro, hibernação e conclusão de agendamentos automaticamente.',
+        descricao: 'Sistema de agendamentos, com verificação de disponibilidade em tempo real. Possui funcionalidades como login, hibernação e conclusão de agendamentos automaticamente.',
         nome: 'Sistema de Agendamentos',
         link: 'http://137.131.233.103:8080/agendamentos-online/index.xhtml/',
         gallery: [
