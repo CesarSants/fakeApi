@@ -4,7 +4,7 @@ export const projetos = [
     {
         id: 1,
         categoria: 'websites',
-        descricao: 'PcStore é um e-commerce de especializado em computadores e acessórios, possui integração com Google Auth para login de usuários, além de integração com gateway de pagamentos.',
+        descricao: 'PcStore é um e-commerce especializado em computadores e acessórios, possui integração com Google Auth para login de usuários, além de integração com gateway de pagamentos.',
         nome: 'PcStore',
         link: 'https://pc-store-seven.vercel.app/',
         gallery: [
